@@ -3,8 +3,9 @@
 [Home](README.md) || [About Me](AboutMe.md) 
 
 
-**DAISY E. MONSIVAIZ**
- San Marcos, CA|760-504-5892|D.Monsivaiz@outlook.com|www.linkedin.com/in/daisyemonsivaiz
+## DAISY E. MONSIVAIZ
+ **Email**: D.Monsivaiz@outlook.com
+ **LinkedIn**: www.linkedin.com/in/daisyemonsivaiz
 
 Highly motivated scientist with a proven track record in quantitative analysis, data interpretation, and laboratory techniques. Seeking a data analyst position to leverage expertise in data management, scientific methodology, and data visualization for insightful business decisions.
 
