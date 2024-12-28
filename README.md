@@ -4,8 +4,8 @@
 
 
 ## DAISY E. MONSIVAIZ
- **Email**: D.Monsivaiz@outlook.com
- **LinkedIn**: www.linkedin.com/in/daisyemonsivaiz
+ - **Email**: D.Monsivaiz@outlook.com
+ - **LinkedIn**: www.linkedin.com/in/daisyemonsivaiz
 
 Highly motivated scientist with a proven track record in quantitative analysis, data interpretation, and laboratory techniques. Seeking a data analyst position to leverage expertise in data management, scientific methodology, and data visualization for insightful business decisions.
 
