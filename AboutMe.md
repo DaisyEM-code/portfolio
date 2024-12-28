@@ -1,4 +1,4 @@
-#About Me:
+# About Me:
 ---
 As an aspiring data analyst, I bring a unique perspective shaped by my background in chemistry. After earning my degree in Chemistry, I developed a strong foundation in analytical thinking and problem-solving, which I believe are essential skills in the data analytics field.
 During my time as a Scientist, I honed my abilities in data collection, interpretation, and reporting. I regularly analyzed complex numerical data from experiments, utilizing statistical methods to identify trends and make informed decisions. My experience with laboratory instrumentation and software tools has equipped me with a solid understanding of data management and the importance of accuracy in reporting.
